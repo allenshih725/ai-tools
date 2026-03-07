@@ -1,4 +1,0 @@
-streamlit==1.45.1
-requests==2.31.0
-PyMuPDF==1.25.5
-urllib3==2.2.3
